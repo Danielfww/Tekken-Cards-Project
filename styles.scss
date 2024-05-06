@@ -1,0 +1,80 @@
+html {
+  padding:0 auto;
+  margin:0 auto;
+}
+
+body {
+  width:350px;
+  height:500px;
+}
+
+
+.flip-container {
+  border:black 1px groove;
+  width:300px;
+  height:400px;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:120px;
+  margin-bottom:120px;
+  border-radius:20px;
+  overflow:hidden;
+  background-color:#FF74D4;
+  box-shadow:10px 10px 20px black;
+
+}
+
+h1 {
+  font-size:42px;
+  font-family:"Jersey 15 Charted";
+  font-weight:400;
+  text-align:left;
+  position:relative;
+  top:-28px;
+}
+
+
+.alisa {
+  width:100%;
+  height:160px;
+  position:relative;
+  top:-60px;
+  border:4px black solid;
+}
+
+.card-2 {
+   border:black 1px groove;
+  width:300px;
+  height:400px;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:120px;
+  margin-bottom:120px;
+  border-radius:20px;
+  overflow:hidden;
+  background-color:#3A015C;
+  box-shadow:10px 10px 20px #3A015C;
+
+}
+
+h1 {
+  position:relative;
+  font-size:42px;
+  font-family:"Jersey 15 Charted";
+  font-weight:400;
+  text-align:left;
+  position:relative;
+  top:-28px;
+}
+
+.bruce {
+  width:100%;
+  height:163px;
+  position:relative;
+  top:-60px;
+  border:4px black solid;
+}
+
+.brucey {
+  color:lightblue;
+}
