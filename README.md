@@ -9,3 +9,6 @@ This project may take some time (approx time estimate - 6 months);
 ![Alisa Card](https://github.com/Danielfww/Tekken-Cards-Project/assets/158219974/ac6acda6-7b21-451c-8557-4a91b2064426)
 
 I will create cards for now and then resize them into one when I get the idea on how to proceed with that.
+
+
+Game release: Early 2025
